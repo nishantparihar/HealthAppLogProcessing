@@ -23,7 +23,7 @@ The analysis is performed in a Jupyter notebook and covers the following key ste
 
 ### Hourly Steps Count (23/12/2017)
 
-![Hourly Steps Count](images/hourly_steps_count_23.png)
+![Hourly Steps Count](images/hourly_activity_23.png)
 
 ### Activity Chart (23/12/2017)
 
