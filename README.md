@@ -22,11 +22,10 @@ The analysis is performed in a Jupyter notebook and covers the following key ste
 ## Plots
 
 ### Hourly Steps Count (23/12/2017)
-
-![Hourly Steps Count](images/hourly_activity_23.png)
+![Hourly Steps Count](https://github.com/nishantparihar/HealthAppLogProcessing/assets/41972745/c031a731-db3d-4d37-bda8-e3b3f1830c5c)
 
 ### Activity Chart (23/12/2017)
+![Activity Chart](https://github.com/nishantparihar/HealthAppLogProcessing/assets/41972745/49637c31-ed3a-4d2f-8630-d1e5bb06c648)
 
-![Activity Chart](images/activity_chart_23.png)
 
 
