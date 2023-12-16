@@ -30,7 +30,3 @@ The analysis is performed in a Jupyter notebook and covers the following key ste
 ![Activity Chart](images/activity_chart_23.png)
 
 
-
-```
-
-In this template, I've added placeholders for three plots along with instructions on how to add custom plots. Make sure to create an `images/` directory within your repository to store the plot images. Update the file paths and names accordingly.
