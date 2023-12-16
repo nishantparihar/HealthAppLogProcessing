@@ -1,4 +1,3 @@
-```markdown
 # Health App Log Analysis
 
 ## Overview
